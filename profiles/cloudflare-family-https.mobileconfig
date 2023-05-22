@@ -13,11 +13,11 @@
 				<array>
 					<string>2606:4700:4700::1113</string>
 					<string>2606:4700:4700::1003</string>
-					<string>1.1.1.3</string>
-					<string>1.0.0.3</string>
+					<string>172.64.36.1</string>
+					<string>172.64.36.2</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://family.cloudflare-dns.com/dns-query</string>
+				<string>https://m5nkq2d4v0.cloudflare-gateway.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Family Encrypted DNS over HTTPS</string>
